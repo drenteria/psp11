@@ -1,7 +1,6 @@
 package edu.uniandes.ecos.psp11.view;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
