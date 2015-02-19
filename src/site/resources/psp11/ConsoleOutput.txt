@@ -1,0 +1,19 @@
+--- Relative Size Estimations Calculator ---
+NOTE: Please be sure all numbers you write are decimals or at least numbers. No letters!
+Please, write the number of elements for the numeric list to calculate:
+8
+Enter value X[0]: 10
+Enter value X[1]: 12
+Enter value X[2]: 15
+Enter value X[3]: 20
+Enter value X[4]: 6
+Enter value X[5]: 18
+Enter value X[6]: 9
+Enter value X[7]: 4
+Calculating Relative Size Estimations...
+Input Data: [10.0, 12.0, 15.0, 20.0, 6.0, 18.0, 9.0, 4.0]
+Very Small: 3.4683663504275293
+Small: 6.014358052530072
+Medium: 10.4292624046403
+Large: 18.08497488091639
+Very Large: 31.36044561481693
